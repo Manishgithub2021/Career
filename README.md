@@ -16,7 +16,8 @@ https://counter-1a5fa.firebaseapp.com/
 **NON DEPLOYED PROJECTS **
 1. RESUME SCREENING ASSISTANT : https://www.youtube.com/watch?v=q_zdshOiSho&list=PLIYjYzk_0ZOzSScrZEGZ7Q8BEd12qFbpK
 
-2. TRAFFIC MONITORING SYSTEM : A AWS cloud based project where from endpoint one can post the any road/route incident that is saved in AWS POSTGRES DB,To fetch data made endpoint and to get statistics used flask and also integrated POWERBI 
+2. TRAFFIC MONITORING SYSTEM : A AWS cloud based project where from endpoint one can post the route which is having traffic  that is saved in AWS POSTGRES DB,To fetch data made endpoint and to get statistics integrated POWERBI 
+https://www.youtube.com/watch?v=_8qzMTZV9r0
 
 3. LIBRARY MANAGEMENT SYSTEM : A jdbc,servlet,jsp based simple application where a person can borrow some book(say max 5) and to borrow more he has to return that many books
    
